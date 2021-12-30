@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  flex-direction: column; 
+}
+h1 {
+  text-align: center;
+}
+#game {
+  margin: auto;
+  border: 2px solid black;
+}
